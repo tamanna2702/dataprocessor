@@ -3,6 +3,7 @@
 This is a Spring Boot project using Java 8. The packaging type is a Jar and no external server will be needed to run this. 
 I have uploaded the runnable jar too. It is in the target directory. Just pull the jar and 
 go to the directory where you have saved it from the command line. And run the command : java -jar parser-0.0.1-SNAPSHOT.jar
+Then go to any browser and hit : http://localhost:8080/items
 
 Alternatively, Just need to import the project, do a maven build to fetch all the dependencies and simply right clicking the project and Run As-> Spring Boot Application will make the application run. The IDE is Spring Tool Suite.
 
